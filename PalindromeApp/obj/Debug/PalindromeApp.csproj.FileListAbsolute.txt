@@ -1,0 +1,7 @@
+F:\2e Année BTS SIO\Visual\PalindromeApp\PalindromeApp\bin\Debug\PalindromeApp.exe.config
+F:\2e Année BTS SIO\Visual\PalindromeApp\PalindromeApp\bin\Debug\PalindromeApp.exe
+F:\2e Année BTS SIO\Visual\PalindromeApp\PalindromeApp\bin\Debug\PalindromeApp.pdb
+F:\2e Année BTS SIO\Visual\PalindromeApp\PalindromeApp\obj\Debug\PalindromeApp.csprojAssemblyReference.cache
+F:\2e Année BTS SIO\Visual\PalindromeApp\PalindromeApp\obj\Debug\PalindromeApp.csproj.CoreCompileInputs.cache
+F:\2e Année BTS SIO\Visual\PalindromeApp\PalindromeApp\obj\Debug\PalindromeApp.exe
+F:\2e Année BTS SIO\Visual\PalindromeApp\PalindromeApp\obj\Debug\PalindromeApp.pdb
